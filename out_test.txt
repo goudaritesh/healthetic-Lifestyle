@@ -1,0 +1,26 @@
+00:00 +0: loading C:/Users/RITESH/Flutter Project/healtheticlifestyle/test/widget_test.dart
+00:00 +0 -1: loading C:/Users/RITESH/Flutter Project/healtheticlifestyle/test/widget_test.dart [E]
+  Failed to load "C:/Users/RITESH/Flutter Project/healtheticlifestyle/test/widget_test.dart":
+  Compilation failed for testPath=C:/Users/RITESH/Flutter Project/healtheticlifestyle/test/widget_test.dart: lib/screens/login_screen.dart:143:37: Error: Too many positional arguments: 0 allowed, but 1 found.
+  Try removing the extra positional arguments.
+                      AnimatedEntrance(
+                                      ^
+  lib/widgets/animated_entrance.dart:9:9: Context: Found this candidate, but the arguments don't match.
+    const AnimatedEntrance({
+          ^^^^^^^^^^^^^^^^
+  lib/screens/signup_screen.dart:161:37: Error: Too many positional arguments: 0 allowed, but 1 found.
+  Try removing the extra positional arguments.
+                      AnimatedEntrance(
+                                      ^
+  lib/widgets/animated_entrance.dart:9:9: Context: Found this candidate, but the arguments don't match.
+    const AnimatedEntrance({
+          ^^^^^^^^^^^^^^^^
+  lib/screens/forgot_password_screen.dart:136:37: Error: Too many positional arguments: 0 allowed, but 1 found.
+  Try removing the extra positional arguments.
+                      AnimatedEntrance(
+                                      ^
+  lib/widgets/animated_entrance.dart:9:9: Context: Found this candidate, but the arguments don't match.
+    const AnimatedEntrance({
+          ^^^^^^^^^^^^^^^^
+  .
+00:00 +0 -1: Some tests failed.
